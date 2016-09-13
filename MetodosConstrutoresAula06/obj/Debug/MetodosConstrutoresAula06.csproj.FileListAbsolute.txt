@@ -1,0 +1,6 @@
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\bin\Debug\MetodosConstrutoresAula06.exe.config
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\bin\Debug\MetodosConstrutoresAula06.exe
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\bin\Debug\MetodosConstrutoresAula06.pdb
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\obj\Debug\MetodosConstrutoresAula06.csprojResolveAssemblyReference.cache
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\obj\Debug\MetodosConstrutoresAula06.exe
+C:\Users\robso\Desktop\MetodosConstrutoresAula06\MetodosConstrutoresAula06\obj\Debug\MetodosConstrutoresAula06.pdb
