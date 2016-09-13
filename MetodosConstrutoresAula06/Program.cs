@@ -14,12 +14,11 @@ namespace MetodosConstrutoresAula06
             Carro joaoCarro = new Carro(5321, "Volkswagen", "Fusca", "Preta");
 
             Proprietario pedro = new Proprietario(1234, "Pedro", "12.345.678-65", "874.342.242-42");
-            Proprietario joao = new Proprietario(1234, "João", "55.345.678-67", "698.342.242-42");
+            Proprietario joao = new Proprietario(5432, "João", "55.345.678-67", "698.342.242-42");
 
             pedroCarro.proprietario = pedro;
             joaoCarro.proprietario = joao;
 
-            // Mostrando meu rg
             Exibir(pedroCarro, pedroCarro.proprietario);
             Exibir(joaoCarro, joaoCarro.proprietario);
 
